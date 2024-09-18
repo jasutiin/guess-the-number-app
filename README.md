@@ -33,3 +33,6 @@ $ npm start
 # Press 'a' to open app in emulator
 ```
 
+<h2>Acknowledgements</h2>
+<p>Special thanks to Academind by Maximilian Schwarzmüller's <a href="https://www.udemy.com/course/react-native-the-practical-guide/" alt="udemy link" target="blank">Udemy course</a>.</p>
+
