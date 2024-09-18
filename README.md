@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/jasutiin/guess-the-number-app-udemy/blob/main/assets/images/app_preview.gif" alt="screenshot" width="200">
+  <img src="https://github.com/jasutiin/guess-the-number-app/blob/main/assets/images/app_preview.gif" alt="screenshot" width="200">
 </p>
 
 <div align="center">
