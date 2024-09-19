@@ -20,7 +20,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/jasutiin/guess-the-number-app-udemy
+$ git clone https://github.com/jasutiin/guess-the-number-app
 
 # Install dependencies
 $ npm install
